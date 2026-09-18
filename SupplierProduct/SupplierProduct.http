@@ -1,6 +1,6 @@
 @SupplierProduct_HostAddress = http://localhost:5129
 
-GET {{SupplierProduct_HostAddress}}/weatherforecast/
+GET {{SetTracker.Server_HostAddress}}/card/
 Accept: application/json
 
 ###

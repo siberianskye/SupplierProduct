@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SupplierProduct.Business/SupplierProductExercise.Business.csproj" />
+  <Project Path="SupplierProduct/SupplierProductExercise.csproj" />
+</Solution>
